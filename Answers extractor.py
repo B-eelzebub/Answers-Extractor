@@ -1,9 +1,9 @@
 import csv
 # basically initialising all the files rn
-with open("Test.txt", "w") as file:
+with open("Answers.txt", "w") as file:
     file.close()
-file_in = open("Test.txt", "r")
-file_out = open("CSV.csv", "w", newline="")
+file_in = open("Answers.txt", "r")
+file_out = open("Answers_csv.csv", "w", newline="")
 writer = csv.writer(file_out)
 lst = []
 old = []
