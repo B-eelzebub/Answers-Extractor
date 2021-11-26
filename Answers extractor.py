@@ -1,16 +1,7 @@
 import csv
 # basically initialising all the files rn
-"""print("Enter the stuff you want: ")
-contents = ""
-while True:
-    try:
-        line = input()
-    except EOFError:
-        break
-    contents += line + "\n"
-file = open("Test.txt", "w")
-file.write(contents)
-file.close()"""
+with open("Test.txt", "w") as file:
+    file.close()
 file_in = open("Test.txt", "r")
 file_out = open("CSV.csv", "w", newline="")
 writer = csv.writer(file_out)
