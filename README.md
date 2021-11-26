@@ -15,7 +15,8 @@ Ever solved an MCQ assignment and felt too lazy to check it yourself? Well you h
 5. You should have everything ready on the excel side
 
 ### Python side
-1. Save the Answer Extractor file and open `Test.txt` (or whatever name you want to give it)
+1. Save the Answer Extractor file and open `Answers.txt`
+  - If the file does not exist, run the code once to create it
 2. Find the answer key of the assignment you are solving and copy paste it into the above mentioned text file
 3. Execute the Answer Extractor python file
 4. You will now find a list of all your answers in a csv file and also printed in the console for easy copying
