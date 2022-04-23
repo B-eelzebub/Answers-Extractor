@@ -21,5 +21,10 @@ Ever solved an MCQ assignment and felt too lazy to check it yourself? Well you h
 3. Execute the Answer Extractor python file
 4. You will now find a list of all your answers in a csv file and also printed in the console for easy copying
 
+### For New Answers Extractor
+1. Install the pyperclip module via pip to allow for the answers to be directly copied intor your clipboard
+2. Copy the answers from the answer key and simply paste into the python terminal
+3. The answers will be copied to your clipboard so you can directly paste into excel
+
 ### Bringing everything together
 - Copy and paste the extracted answers in the column to the right of the one containing your answers and you should see the wrong answers light up
