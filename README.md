@@ -1,5 +1,5 @@
 # Answers-Extractor
-Ever solved an MCQ assignment and felt too lazy to check it yourself? Well you have the perfect solution now.
+Ever solved an MCQ assignment and felt too lazy to check it yourself? Well this is a solution to that problem.
 
 # How to use
 ## Requirements for this project
